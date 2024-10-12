@@ -38,10 +38,10 @@ Most are everforest dark soft.
 14. [Starship](https://starship.rs/): see the `starship` folder.
 15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
 16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
-17. [zed](zed.dev): please refer to [everforest-zed](https://github.com/ThomasAlban/everforest-zed).
+17. [zed](https://zed.dev): please refer to [everforest-zed](https://github.com/ThomasAlban/everforest-zed).
 18. [helix](https://github.com/helix-editor/helix): please refer to [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
 19. [VSCode](https://code.visualstudio.com/): please refer to [vscode-everforest](https://github.com/sainnhe/everforest-vscode).
-20. [zellij](zellij.dev): see the `zellij` folder.
+20. [zellij](https://zellij.dev): see the `zellij` folder.
 21. [SurfingKeys](https://github.com/brookhong/Surfingkeys): see the `SurfingKeys` folder.
 22. [k9s](https://k9scli.io/topics/skins/): see the `k9s` folder.
 
